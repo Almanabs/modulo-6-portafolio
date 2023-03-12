@@ -1,0 +1,84 @@
+{
+    "productos": [
+        {
+            "id": 2,
+            "nombre": "Mortal Kombat X",
+            "descdescripcion": "Luchas con los mejores graficos",
+            "precio": 15000,
+            "stock": 100,
+            "img": "imagenes/mortal.jpg"
+        },
+        {
+            "id": 3,
+            "nombre": "Pac Man",
+            "descdescripcion": "Juego plataformero, niveles basicos",
+            "precio": 15700,
+            "stock": 97,
+            "img": "imagenes/pacman.jpg"
+        },
+        {
+            "id": 4,
+            "nombre": "Dragon Ball Xenoverse",
+            "descdescripcion": "Vive la experiencia dragon ball",
+            "precio": 10000,
+            "stock": 100,
+            "img": "imagenes/dragonball.jpg"
+        },
+        {
+            "id": 5,
+            "nombre": "Naruto Ninja Storm 4",
+            "descdescripcion": "La historia de Naruto",
+            "precio": 12000,
+            "stock": 100,
+            "img": "imagenes/naruto.jpg"
+        },
+        {
+            "id": 6,
+            "nombre": "Shingeki Final Attack",
+            "descdescripcion": "Eren Jeager vuelve en formato gamer...",
+            "precio": 12000,
+            "stock": 100,
+            "img": "imagenes/shingeki.jpg"
+        },
+        {
+            "id": 7,
+            "nombre": "League of Legends",
+            "descdescripcion": "No compres esto por tu bien",
+            "precio": 14000,
+            "stock": 100,
+            "img": "imagenes/league.jpg"
+        },
+        {
+            "id": 8,
+            "nombre": "Call Of Duty Warzone",
+            "descdescripcion": "Dispara como nunca",
+            "precio": 12000,
+            "stock": 100,
+            "img": "imagenes/callduty.jpg"
+        },
+        {
+            "id": 9,
+            "nombre": "Fifa 2019",
+            "descdescripcion": "Juego de futbol",
+            "precio": 14000,
+            "stock": 100,
+            "img": "imagenes/fifa.jpg"
+        },
+        {
+            "id": 10,
+            "nombre": "Fornite",
+            "descdescripcion": "Battle Royale",
+            "precio": 12000,
+            "stock": 100,
+            "img": "imagenes/fornite.jpg"
+        },
+        {
+            "nombre": "Crash Bandicoot",
+            "descripcion": "Juego de plataforma",
+            "precio": "12000",
+            "stock": "100",
+            "img": "imagenes/Crash.jpg",
+            "id": "86105c"
+        }
+    ]
+}
